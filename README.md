@@ -54,3 +54,7 @@ Perché ci si mette sempre un’ora a scegliere cosa guardare la sera? Certo è 
 #### :ALTRIMENTI
 
         continua a guardare
+
+![here there is our graph][def];
+
+[def]: https://github.com/DamianoMura/human-code/blob/main/diagramma-traccia-3.png
